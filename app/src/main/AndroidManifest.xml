@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ConstraintLayoutDemo">
-        <activity android:name=".activity.Test1Activity"></activity>
+        <activity android:name=".activity.Test6Activity"></activity>
+        <activity android:name=".activity.Test5Activity" />
+        <activity android:name=".activity.Test4Activity" />
+        <activity android:name=".activity.Test3Activity" />
+        <activity android:name=".activity.Test2Activity" />
+        <activity android:name=".activity.Test1Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
